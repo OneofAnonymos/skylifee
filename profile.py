@@ -1,3 +1,4 @@
+from telegram.ext import CommandHandler
 from telegram import Update
 from telegram.ext import ContextTypes, Application
 from db import connect
